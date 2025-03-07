@@ -9,6 +9,8 @@ using namespace std;
 
 int main()
 {
-  int x=INT_MAX;
-  cout<<x<<"\n";
+  // int x=INT_MAX;
+  int base=2;
+  base*=base;
+  cout<<base<<"\n";
 }
